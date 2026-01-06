@@ -1,4 +1,3 @@
-# security-portfolio-intro
 # Security Portfolio Introduction
 
 ## About Me
